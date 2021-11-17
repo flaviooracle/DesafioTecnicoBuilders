@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XcfZKNXxZhfXb4Pd8zFpzHuoAyHho9O97dytNr2QS3yNuP7KNbpm8qZ9wcKXtdJqsEFd+z9KSlTeL+ZVcoC60Q==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\Teste Builders\\Projeto.Palindromo\\Projeto.Palindromo\\Projeto.Palindromo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Flavio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

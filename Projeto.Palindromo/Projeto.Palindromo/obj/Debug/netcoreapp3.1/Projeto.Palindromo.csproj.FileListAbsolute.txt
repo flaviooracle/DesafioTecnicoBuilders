@@ -1,0 +1,13 @@
+D:\Projetos\Teste Builders\Projeto.Palindromo\Projeto.Palindromo\bin\Debug\netcoreapp3.1\Projeto.Palindromo.exe
+D:\Projetos\Teste Builders\Projeto.Palindromo\Projeto.Palindromo\bin\Debug\netcoreapp3.1\Projeto.Palindromo.deps.json
+D:\Projetos\Teste Builders\Projeto.Palindromo\Projeto.Palindromo\bin\Debug\netcoreapp3.1\Projeto.Palindromo.runtimeconfig.json
+D:\Projetos\Teste Builders\Projeto.Palindromo\Projeto.Palindromo\bin\Debug\netcoreapp3.1\Projeto.Palindromo.runtimeconfig.dev.json
+D:\Projetos\Teste Builders\Projeto.Palindromo\Projeto.Palindromo\bin\Debug\netcoreapp3.1\Projeto.Palindromo.dll
+D:\Projetos\Teste Builders\Projeto.Palindromo\Projeto.Palindromo\bin\Debug\netcoreapp3.1\Projeto.Palindromo.pdb
+D:\Projetos\Teste Builders\Projeto.Palindromo\Projeto.Palindromo\obj\Debug\netcoreapp3.1\Projeto.Palindromo.csproj.AssemblyReference.cache
+D:\Projetos\Teste Builders\Projeto.Palindromo\Projeto.Palindromo\obj\Debug\netcoreapp3.1\Projeto.Palindromo.AssemblyInfoInputs.cache
+D:\Projetos\Teste Builders\Projeto.Palindromo\Projeto.Palindromo\obj\Debug\netcoreapp3.1\Projeto.Palindromo.AssemblyInfo.cs
+D:\Projetos\Teste Builders\Projeto.Palindromo\Projeto.Palindromo\obj\Debug\netcoreapp3.1\Projeto.Palindromo.csproj.CoreCompileInputs.cache
+D:\Projetos\Teste Builders\Projeto.Palindromo\Projeto.Palindromo\obj\Debug\netcoreapp3.1\Projeto.Palindromo.dll
+D:\Projetos\Teste Builders\Projeto.Palindromo\Projeto.Palindromo\obj\Debug\netcoreapp3.1\Projeto.Palindromo.pdb
+D:\Projetos\Teste Builders\Projeto.Palindromo\Projeto.Palindromo\obj\Debug\netcoreapp3.1\Projeto.Palindromo.genruntimeconfig.cache
